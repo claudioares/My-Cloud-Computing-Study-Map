@@ -3,7 +3,7 @@
 ## 1. Fundamentos de Computação em Nuvem
 ### Conceitos Básicos
 - [ ] **Tópicos:**
-  - Modelos de serviço: IaaS, PaaS, SaaS
+  - Modelos de serviço: IaaS, PaaS, SaaS [https://www.youtube.com/watch?v=5czsMlRc7Wk]
   - Modelos de implantação: Pública, Privada, Híbrida
   - Benefícios e desafios da nuvem
 

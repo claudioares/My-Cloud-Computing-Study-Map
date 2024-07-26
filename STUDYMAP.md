@@ -5,7 +5,7 @@
 - [ ] **Tópicos:**
   - Modelos de serviço: IaaS, PaaS, SaaS [https://www.youtube.com/watch?v=5czsMlRc7Wk]
   - Modelos de implantação: Pública, Privada, Híbrida
-    [https://www.youtube.com/watch?v=zPHzhZXWEDc]
+    [https://www.youtube.com/watch?v=zPHzhZXWEDc | https://www.youtube.com/watch?v=9r4SESijOmo]
   - Benefícios e desafios da nuvem
 
 ### Projeto Prático:
